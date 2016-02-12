@@ -1,4 +1,4 @@
-# SlurpSlurp
+# Slurp
 
 Slurp is an extension for Burp Suite. It aims to automate some really basic but tedious checks that are often forgotten or overlooked during Web Security Assessment / Pentest. 
 
